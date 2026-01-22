@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kanika-portfolio/static/css/main.e5b78c2a.css",
+    "main.js": "/kanika-portfolio/static/js/main.2b53bdab.js",
+    "static/js/453.d7e39d9b.chunk.js": "/kanika-portfolio/static/js/453.d7e39d9b.chunk.js",
+    "index.html": "/kanika-portfolio/index.html",
+    "main.e5b78c2a.css.map": "/kanika-portfolio/static/css/main.e5b78c2a.css.map",
+    "main.2b53bdab.js.map": "/kanika-portfolio/static/js/main.2b53bdab.js.map",
+    "453.d7e39d9b.chunk.js.map": "/kanika-portfolio/static/js/453.d7e39d9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5b78c2a.css",
+    "static/js/main.2b53bdab.js"
+  ]
+}
